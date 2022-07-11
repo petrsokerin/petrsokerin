@@ -16,7 +16,7 @@
 
 <br />
 
-<p> <br> I'm Petr Sokerin, master student of Data Science in Skoltech, bachelor of economics in Plekhanov Russian University, Moscow, Russia.</p>
+<p> <br> I'm Petr Sokerin, master student of Data Science in Skoltech, bachelor of Mathematical methods in Economics in Plekhanov Russian University, Moscow, Russia.</p>
 
 <br />
 
